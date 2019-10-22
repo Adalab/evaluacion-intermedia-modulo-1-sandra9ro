@@ -1,0 +1,26 @@
+/* header */
+.header{
+  border: red solid 1px;
+  width: 100%;
+}
+
+.adalab-logo{
+  border: green solid 1px;
+  width: 155px;
+}
+.menu{
+  border: greenyellow solid 1px;
+
+}
+.blog{
+  border: hotpink solid 1px;
+}
+.contact{
+  border: indigo;
+}
+
+
+/* main */
+.main{
+  border: blue solid 1px;
+}
