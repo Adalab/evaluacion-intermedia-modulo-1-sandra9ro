@@ -1,0 +1,121 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.header{
+  border: aqua solid 1px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  
+}
+
+.logo-container{
+  border: solid springgreen 1px;
+  width: 155px;
+}
+
+.nav{
+  border: yellowgreen solid 1px;
+  width: 200px;
+}
+
+.main{
+  border: tomato solid 1px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  margin: 0px;
+} */
+
+
+/* header */
+/* .header{
+  border: red solid 1px;
+  width: 100%;
+  display: block;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  } */
+/* .header-container{
+  border: black solid 3px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  flex-wrap: nowrap;
+
+}
+
+.adalab{
+  border: aqua solid 1px;
+  width: 155px;
+}
+
+.adalab-logo{
+  border: green solid 1px;
+  width: 155px;
+}
+.menu{
+  border: greenyellow solid 1px;
+
+}
+.blog{
+  border: hotpink solid 1px;
+}
+.contact{
+  border: indigo;
+}
+
+
+/* main */
+/* .main{
+  border: blue solid 1px;
+  width: 100%; 
+  height: 100vh;
+  background: #3CDBC0;
+
+}
+.main-text{
+  align-items: center;
+  font-family: 'Rubik', sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+  
+} */
